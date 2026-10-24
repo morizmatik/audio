@@ -1,0 +1,1 @@
+import{t as e}from"./_FSbmDLf.js";import{c as t,t as n,u as r}from"./_7FK51H5.js";function i(i){let a=t.kick;return a.mode===`sample`&&n(`kick`)?r(`kick`,i):{sweep:a.params.sweep/e.kick.sweep,len:a.params.len/e.kick.len,click:a.params.click}}export{i as t};
