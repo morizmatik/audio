@@ -1,0 +1,1 @@
+import{g as e,h as t}from"./Cfns-ABk.js";import{o as n}from"./CvVfcZZm.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=t(a,r),s={name:`arrow-left`,size:24,node:[[`path`,{d:`m12 19-7-7 7-7`}],[`path`,{d:`M19 12H5`}]]};n(i,e(()=>o,{get icon(){return s}}))}export{i as t};

@@ -1,0 +1,1 @@
+import{u as e}from"./DFY-w2ln.js";var t=(t=44100)=>({kick:e(`kick`,t),snare:e(`snare`,t),hat:e(`hat`,t)}),n=e=>{let t=0;for(let n of e)t=Math.max(t,Math.abs(n));return t>0?e.map(e=>e/t):e};function r(e,t){let r=n(e);return{len:r.length/t,fn:e=>r[Math.round(e*t)]??0}}export{t as n,r as t};

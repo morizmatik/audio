@@ -1,0 +1,1 @@
+import{u as e}from"./DFY-w2ln.js";var t=t=>({kick:e(`kick`,t),snare:e(`snare`,t),hat:e(`hat`,t)});export{t};

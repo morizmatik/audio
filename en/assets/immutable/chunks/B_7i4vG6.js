@@ -1,0 +1,1 @@
+import{u as e}from"./BdEjYk07.js";var t=t=>({kick:e(`kick`,t),snare:e(`snare`,t),hat:e(`hat`,t)});export{t};
