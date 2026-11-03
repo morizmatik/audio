@@ -1,0 +1,1 @@
+import{Ct as e,ft as t,rt as n,xt as r}from"./CigJH7Ve.js";function i(i,a){let o=e(!1);return t(()=>{!n(o)&&i()!==a&&r(o,!0)}),{get on(){return!n(o)}}}export{i as t};
